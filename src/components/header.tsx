@@ -21,7 +21,7 @@ const Header = ({ onLogout }: Props) => {
     <header className="header">
       <div className="header-content">
         <div className="header-left">
-          <h1 className="header-title">Vella Investment</h1>
+          <h1 className="header-title">Villa Challange</h1>
         </div>
 
         <nav className="header-nav">
